@@ -1,0 +1,2 @@
+# ternodereis.github.io
+static
